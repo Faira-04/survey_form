@@ -1,0 +1,63 @@
+h1{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 64px;
+    text-shadow: 0.5px 0px 5px rgb(200,);
+}
+label{
+    margin-top: 44px;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 0.5px 0px 5px rgb(200,);
+}
+label{
+    font-size: 20px;
+    text-shadow: 0.5px 0px 5px rgb(200,);
+}
+#survey-form{
+margin-left: 40px;
+margin-top: 40px;
+margin-left: 40px;
+}
+#survey-form div{
+    margin-top: 40px;
+}
+.list-items{
+    list-style: none;
+    margin-left: -250px;
+    padding-left: -50px;
+}
+.input-elm{
+    margin-top: 16px;
+    padding-left: 10px;
+    width: 50%;
+    height: 32px;
+}
+.input-radio .input-checkbox{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    margin-left: -50px;
+}
+.select-elm{
+    margin-top: 10px;
+    padding-left: 10px;
+    width: 51%;
+    height: 32px;
+}
+.textarea-elm{
+    border: 2px solid black;
+    margin-top: 16px;
+    padding-top: 10px;
+    height: 156px;
+    width: 50%;
+}
+.button-elm{
+    margin-top: 25px;
+    width: 51%;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
